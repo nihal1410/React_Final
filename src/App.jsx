@@ -1,12 +1,12 @@
 import React from "react";
 function Home() {
   const tableData = [
-    { id: 1, name: "Task 1", link: "https://ethnus-react-task-1-chi.vercel.app/", github: "https://github.com/Amankrishan14/ETHNUS-react_task_1" },
-    { id: 2, name: "Task 2", link: "https://ethnus-react-task-2-three.vercel.app/", github: "https://github.com/Amankrishan14/ETHNUS-react_task_2" },
-    { id: 3, name: "Task 3", link: "https://ethnus-react-task-3-eight.vercel.app/", github: "https://github.com/Amankrishan14/ETHNUS-react_task_3" },
-    { id: 4, name: "Task 4", link: "https://ethnus-react-task-4-ten.vercel.app/", github: "https://github.com/Amankrishan14/ETHNUS-react_task_4" },
-    { id: 5, name: "Task 5", link: "https://ethnus-react-task-5-virid.vercel.app/", github: "https://github.com/Amankrishan14/ETHNUS-react_task_5" },
-    { id: 6, name: "Task 6", link: "https://ethnus-react-task-6-kappa.vercel.app/", github: "https://github.com/Amankrishan14/ETHNUS-react_task_6" },
+    { id: 1, name: "Task 1", link: "https://react-task1-liart.vercel.app/", github: "https://github.com/nihal1410/React_Task1" },
+    { id: 2, name: "Task 2", link: "https://react-task2-tan-zeta.vercel.app/", github: "https://github.com/nihal1410/React_Task2" },
+    { id: 3, name: "Task 3", link: "https://react-task3-swart.vercel.app/", github: "https://github.com/nihal1410/React_Task3" },
+    { id: 4, name: "Task 4", link: "https://react-task4-psi-eight.vercel.app/", github: "https://github.com/nihal1410/React_Task4" },
+    { id: 5, name: "Task 5", link: "https://react-task5-red-pi.vercel.app/", github: "https://github.com/nihal1410/React_Task5" },
+    { id: 6, name: "Task 6", link: "https://react-task6-livid.vercel.app/", github: "https://github.com/nihal1410/React_Task6" },
   ];
   return (
     <>
